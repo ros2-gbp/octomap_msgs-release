@@ -1,1 +1,1 @@
-{"base": "8baef54", "parent": "debian/rolling/octomap_msgs", "previous": "390b370", "trim": "", "trimbase": ""}
+{"base": "7b07ad7", "parent": "debian/humble/octomap_msgs", "previous": "f7bb8be", "trim": "", "trimbase": ""}
