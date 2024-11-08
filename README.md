@@ -1,3 +1,26 @@
+## octomap_msgs (humble) - 2.0.1-1
+
+The packages in the `octomap_msgs` repository were released into the `humble` distro by running `/usr/bin/bloom-release -r humble octomap_msgs --edit` on `Fri, 08 Nov 2024 15:53:57 -0000`
+
+The `octomap_msgs` package was released.
+
+Version of package(s) in repository `octomap_msgs`:
+
+- upstream repository: https://github.com/OctoMap/octomap_msgs.git
+- release repository: https://github.com/ros2-gbp/octomap_msgs-release.git
+- rosdistro version: `2.0.0-3`
+- old version: `2.0.0-3`
+- new version: `2.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## octomap_msgs (rolling) - 2.0.1-1
 
 The packages in the `octomap_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release -r rolling octomap_msgs --edit` on `Fri, 08 Nov 2024 15:48:57 -0000`
